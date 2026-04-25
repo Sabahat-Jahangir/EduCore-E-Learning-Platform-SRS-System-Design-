@@ -1,4 +1,4 @@
-## EduCore – E-Learning Platform (SRS & System Design)
+## EduCore: E-Learning Platform (SRS & System Design)
 
 ### Overview
 
@@ -227,9 +227,4 @@ These diagrams clearly define how different components interact over time.
   * Database design
 
 ---
-
-## Conclusion
-
-EduCore represents a complete system design for an e-learning platform, covering every stage from problem identification to detailed architectural modeling. It shows how a complex system can be broken down into structured components before implementation.
-
-It is essentially the part most people skip — the thinking — documented properly.
+My linkedin:https://www.linkedin.com/in/sabahat-jahangir
